@@ -1,0 +1,65 @@
+*{
+    padding:7px;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    color:white;
+    text-transform:uppercase;
+}
+body{
+    background-color: black;
+    color:white;
+}
+.one{
+    width:350px;
+    height:350px;
+    border:5px solid white;
+    
+}
+.two{
+    width:350px;
+    height:350px;
+    border:5px solid white;
+    margin-left:800px;
+    margin-top: 0px;
+    
+    
+}
+.three{
+    width:350px;
+    height:350px;
+    border:5px solid white;
+}
+.four{
+    width:350px;
+    height:350px;
+    border:5px solid white;
+    margin-left:800px;
+}
+.five{
+    width:350px;
+    height:350px;
+    border:5px solid white;
+}
+.six{
+    width:350px;
+    height:350px;
+    border:5px solid white;
+    margin-left:800px;
+}
+.seven{
+    width:350px;
+    height:350px;
+    border:5px solid white;
+}
+.eight{
+    width:350px;
+    height:350px;
+    border:5px solid white;
+    margin-left:800px;
+}
+.nine{
+    width:350px;
+    height:350px;
+    border:5px solid white;
+}
